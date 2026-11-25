@@ -1,0 +1,17 @@
+/* CSS module: these class names only apply to the Nav component */
+.nav {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1rem 2rem;
+  background-color: #111;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.nav a:hover {
+  color: #4f9cff;
+}
